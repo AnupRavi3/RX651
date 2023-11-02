@@ -1,2 +1,3 @@
 # RX651
-Example project for Renesas RX651N family mcu.
+Example code for Renesas RX651N family mcu.
+Includes LED toggle and Stepper motor function.
